@@ -40,3 +40,6 @@
 [submodule "1-RodionovMaxim05"]
 	path = 1-RodionovMaxim05
 	url = git@github.com:spbu-coding-2023/1-RodionovMaxim05.git
+[submodule "1-SecretPersona5"]
+	path = 1-SecretPersona5
+	url = git@github.com:spbu-coding-2023/1-SecretPersona5.git
