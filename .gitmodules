@@ -85,3 +85,6 @@
 [submodule "1-sofyak0zyreva"]
 	path = 1-sofyak0zyreva
 	url = git@github.com:spbu-coding-2023/1-sofyak0zyreva.git
+[submodule "1-suvorovrain"]
+	path = 1-suvorovrain
+	url = git@github.com:spbu-coding-2023/1-suvorovrain.git
