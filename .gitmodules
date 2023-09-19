@@ -49,3 +49,6 @@
 [submodule "1-Szczucki"]
 	path = 1-Szczucki
 	url = git@github.com:spbu-coding-2023/1-Szczucki.git
+[submodule "1-TerrMen"]
+	path = 1-TerrMen
+	url = git@github.com:spbu-coding-2023/1-TerrMen.git
