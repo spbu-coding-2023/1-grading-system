@@ -28,3 +28,6 @@
 [submodule "1-IliaSuponeff"]
 	path = 1-IliaSuponeff
 	url = git@github.com:spbu-coding-2023/1-IliaSuponeff.git
+[submodule "1-Kirilich"]
+	path = 1-Kirilich
+	url = git@github.com:spbu-coding-2023/1-Kirilich.git
