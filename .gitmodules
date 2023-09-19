@@ -34,3 +34,6 @@
 [submodule "1-Lyart123"]
 	path = 1-Lyart123
 	url = git@github.com:spbu-coding-2023/1-Lyart123.git
+[submodule "1-Mukovenkov-Roman-Sergeyevich"]
+	path = 1-Mukovenkov-Roman-Sergeyevich
+	url = git@github.com:spbu-coding-2023/1-Mukovenkov-Roman-Sergeyevich.git
