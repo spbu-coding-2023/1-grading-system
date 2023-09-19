@@ -7,3 +7,6 @@
 [submodule "1-qrutyy"]
 	path = 1-qrutyy
 	url = git@github.com:spbu-coding-2023/1-qrutyy.git
+[submodule "1-starscream1337"]
+	path = 1-starscream1337
+	url = git@github.com:spbu-coding-2023/1-starscream1337.git
