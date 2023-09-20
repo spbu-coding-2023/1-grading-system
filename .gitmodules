@@ -88,3 +88,6 @@
 [submodule "1-suvorovrain"]
 	path = 1-suvorovrain
 	url = git@github.com:spbu-coding-2023/1-suvorovrain.git
+[submodule "1-AeugeneA"]
+	path = 1-AeugeneA
+	url = git@github.com:spbu-coding-2023/1-AeugeneA.git
