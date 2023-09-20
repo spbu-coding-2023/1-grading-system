@@ -106,3 +106,6 @@
 [submodule "1-RamProsad2"]
 	path = 1-RamProsad2
 	url = git@github.com:spbu-coding-2023/1-RamProsad2.git
+[submodule "1-Sem4kok"]
+	path = 1-Sem4kok
+	url = git@github.com:spbu-coding-2023/1-Sem4kok.git
