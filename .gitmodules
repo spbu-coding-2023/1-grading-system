@@ -100,3 +100,6 @@
 [submodule "1-Friend-zva"]
 	path = 1-Friend-zva
 	url = git@github.com:spbu-coding-2023/1-Friend-zva.git
+[submodule "1-MaksimQR"]
+	path = 1-MaksimQR
+	url = git@github.com:spbu-coding-2023/1-MaksimQR.git
