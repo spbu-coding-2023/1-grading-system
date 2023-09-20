@@ -103,3 +103,6 @@
 [submodule "1-MaksimQR"]
 	path = 1-MaksimQR
 	url = git@github.com:spbu-coding-2023/1-MaksimQR.git
+[submodule "1-RamProsad2"]
+	path = 1-RamProsad2
+	url = git@github.com:spbu-coding-2023/1-RamProsad2.git
