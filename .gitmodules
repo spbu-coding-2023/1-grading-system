@@ -154,3 +154,6 @@
 [submodule "1-vicitori"]
 	path = 1-vicitori
 	url = git@github.com:spbu-coding-2023/1-vicitori.git
+[submodule "1-hasangokmenn"]
+	path = 1-hasangokmenn
+	url = git@github.com:spbu-coding-2023/1-hasangokmenn.git
