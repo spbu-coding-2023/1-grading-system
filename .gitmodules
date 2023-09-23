@@ -112,3 +112,6 @@
 [submodule "1-sgrishkova"]
 	path = 1-sgrishkova
 	url = git@github.com:spbu-coding-2023/1-sgrishkova.git
+[submodule "1-D31IRIUM"]
+	path = 1-D31IRIUM
+	url = git@github.com:spbu-coding-2023/1-D31IRIUM.git
