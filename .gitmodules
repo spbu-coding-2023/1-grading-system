@@ -145,3 +145,6 @@
 [submodule "1-mdcp10"]
 	path = 1-mdcp10
 	url = git@github.com:spbu-coding-2023/1-mdcp10.git
+[submodule "1-shvorobsofia"]
+	path = 1-shvorobsofia
+	url = git@github.com:spbu-coding-2023/1-shvorobsofia.git
