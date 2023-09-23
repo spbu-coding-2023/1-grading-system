@@ -115,3 +115,6 @@
 [submodule "1-D31IRIUM"]
 	path = 1-D31IRIUM
 	url = git@github.com:spbu-coding-2023/1-D31IRIUM.git
+[submodule "1-DARKpluz"]
+	path = 1-DARKpluz
+	url = git@github.com:spbu-coding-2023/1-DARKpluz.git
