@@ -148,3 +148,6 @@
 [submodule "1-shvorobsofia"]
 	path = 1-shvorobsofia
 	url = git@github.com:spbu-coding-2023/1-shvorobsofia.git
+[submodule "1-vicheka-sk"]
+	path = 1-vicheka-sk
+	url = git@github.com:spbu-coding-2023/1-vicheka-sk.git
