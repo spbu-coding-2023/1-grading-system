@@ -7,14 +7,17 @@ on:
 jobs:
   grading-test:
     runs-on: ubuntu-latest
-    container: vladimirkutuev/cmocka:latest
-
+    container:
+      image: vladimirkutuev/cmocka:latest
+      options: --user 1001
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           submodules: true
           fetch-depth: 2
           token: ${{ secrets.GH_DB_TOKEN }}
+      - name: Show submodule updated
+        run: git diff --name-only HEAD~1 HEAD
       - name: Check repository clean
         run: ./1-grading-tests/scripts/check_clean.sh
       - name: Build
