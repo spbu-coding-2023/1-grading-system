@@ -139,3 +139,6 @@
 [submodule "1-dinozaurnugget"]
 	path = 1-dinozaurnugget
 	url = git@github.com:spbu-coding-2023/1-dinozaurnugget.git
+[submodule "1-kar1mgh"]
+	path = 1-kar1mgh
+	url = git@github.com:spbu-coding-2023/1-kar1mgh.git
