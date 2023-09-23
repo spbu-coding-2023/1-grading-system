@@ -130,3 +130,6 @@
 [submodule "1-Vladzabaev"]
 	path = 1-Vladzabaev
 	url = git@github.com:spbu-coding-2023/1-Vladzabaev.git
+[submodule "1-b08lsoai"]
+	path = 1-b08lsoai
+	url = git@github.com:spbu-coding-2023/1-b08lsoai.git
