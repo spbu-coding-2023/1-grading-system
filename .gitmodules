@@ -166,3 +166,6 @@
 [submodule "1-Asif2040"]
 	path = 1-Asif2040
 	url = git@github.com:spbu-coding-2023/1-Asif2040.git
+[submodule "1-MigunovaAnastasia1"]
+	path = 1-MigunovaAnastasia1
+	url = git@github.com:spbu-coding-2023/1-MigunovaAnastasia1.git
