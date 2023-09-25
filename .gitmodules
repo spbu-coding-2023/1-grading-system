@@ -163,3 +163,6 @@
 [submodule "1-V4k4"]
 	path = 1-V4k4
 	url = git@github.com:spbu-coding-2023/1-V4k4.git
+[submodule "1-Asif2040"]
+	path = 1-Asif2040
+	url = git@github.com:spbu-coding-2023/1-Asif2040.git
